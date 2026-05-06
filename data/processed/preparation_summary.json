@@ -1,0 +1,154 @@
+{
+  "raw_records": 17331,
+  "warehouses": 13,
+  "customers": 16487,
+  "od_links": 17331,
+  "unique_od_pairs": 16494,
+  "duplicate_od_pairs": 582,
+  "duplicate_od_rows": 837,
+  "invalid_rows": 51,
+  "warehouse_names_with_multiple_coordinate_sets": 0,
+  "customer_names_with_multiple_coordinate_sets": 970,
+  "invalid_row_samples": [
+    {
+      "excel_row": "8210",
+      "source_row_no": "12923",
+      "warehouse_name": "광주RDC",
+      "customer_name": "유한회사 서진",
+      "errors": "invalid_or_out_of_korea_customer_coordinate"
+    },
+    {
+      "excel_row": "8558",
+      "source_row_no": "14255",
+      "warehouse_name": "양지RDC",
+      "customer_name": "금호타이어 대산카독크",
+      "errors": "invalid_or_out_of_korea_customer_coordinate"
+    },
+    {
+      "excel_row": "12056",
+      "source_row_no": "20769",
+      "warehouse_name": "시흥RDC",
+      "customer_name": "(1)민수용(서경환)",
+      "errors": "invalid_or_out_of_korea_customer_coordinate"
+    },
+    {
+      "excel_row": "12057",
+      "source_row_no": "20770",
+      "warehouse_name": "대전RDC",
+      "customer_name": "(2)민수용(허석철)",
+      "errors": "invalid_or_out_of_korea_customer_coordinate"
+    },
+    {
+      "excel_row": "12058",
+      "source_row_no": "20771",
+      "warehouse_name": "대전RDC",
+      "customer_name": "(3)민수용(김정현)",
+      "errors": "invalid_or_out_of_korea_customer_coordinate"
+    },
+    {
+      "excel_row": "12060",
+      "source_row_no": "20777",
+      "warehouse_name": "대전RDC",
+      "customer_name": "(4)민수용(김명진)",
+      "errors": "invalid_or_out_of_korea_customer_coordinate"
+    },
+    {
+      "excel_row": "12061",
+      "source_row_no": "20778",
+      "warehouse_name": "양지RDC",
+      "customer_name": "(5)민수용(조창영)",
+      "errors": "invalid_or_out_of_korea_customer_coordinate"
+    },
+    {
+      "excel_row": "12062",
+      "source_row_no": "20779",
+      "warehouse_name": "대구RDC",
+      "customer_name": "(6)민수용(김수민)",
+      "errors": "invalid_or_out_of_korea_customer_coordinate"
+    },
+    {
+      "excel_row": "12063",
+      "source_row_no": "20780",
+      "warehouse_name": "양지RDC",
+      "customer_name": "(7)민수용(장수한)",
+      "errors": "invalid_or_out_of_korea_customer_coordinate"
+    },
+    {
+      "excel_row": "12064",
+      "source_row_no": "20781",
+      "warehouse_name": "양산RDC",
+      "customer_name": "(8)민수용(조용래)",
+      "errors": "invalid_or_out_of_korea_customer_coordinate"
+    },
+    {
+      "excel_row": "12065",
+      "source_row_no": "20782",
+      "warehouse_name": "양지RDC",
+      "customer_name": "(9)민수용(김정우)",
+      "errors": "invalid_or_out_of_korea_customer_coordinate"
+    },
+    {
+      "excel_row": "12066",
+      "source_row_no": "20783",
+      "warehouse_name": "양지RDC",
+      "customer_name": "(10)민수용(유범석)",
+      "errors": "invalid_or_out_of_korea_customer_coordinate"
+    },
+    {
+      "excel_row": "12067",
+      "source_row_no": "20784",
+      "warehouse_name": "양지RDC",
+      "customer_name": "(11)민수용(권도학)",
+      "errors": "invalid_or_out_of_korea_customer_coordinate"
+    },
+    {
+      "excel_row": "12068",
+      "source_row_no": "20785",
+      "warehouse_name": "양지RDC",
+      "customer_name": "(12)민수용(심재천)",
+      "errors": "invalid_or_out_of_korea_customer_coordinate"
+    },
+    {
+      "excel_row": "12069",
+      "source_row_no": "20786",
+      "warehouse_name": "시흥RDC",
+      "customer_name": "(13)민수용(홍현걸)",
+      "errors": "invalid_or_out_of_korea_customer_coordinate"
+    },
+    {
+      "excel_row": "12070",
+      "source_row_no": "20787",
+      "warehouse_name": "시흥RDC",
+      "customer_name": "(14)민수용(김근호)",
+      "errors": "invalid_or_out_of_korea_customer_coordinate"
+    },
+    {
+      "excel_row": "12071",
+      "source_row_no": "20788",
+      "warehouse_name": "강릉RDC",
+      "customer_name": "(15)민수용(정재복)",
+      "errors": "invalid_or_out_of_korea_customer_coordinate"
+    },
+    {
+      "excel_row": "12072",
+      "source_row_no": "20789",
+      "warehouse_name": "대전RDC",
+      "customer_name": "(16)민수용(박광수)",
+      "errors": "invalid_or_out_of_korea_customer_coordinate"
+    },
+    {
+      "excel_row": "12073",
+      "source_row_no": "20790",
+      "warehouse_name": "대전RDC",
+      "customer_name": "(17)민수용(여준구)",
+      "errors": "invalid_or_out_of_korea_customer_coordinate"
+    },
+    {
+      "excel_row": "12074",
+      "source_row_no": "20791",
+      "warehouse_name": "광주RDC",
+      "customer_name": "(18)민수용(기용민)",
+      "errors": "invalid_or_out_of_korea_customer_coordinate"
+    }
+  ]
+}
